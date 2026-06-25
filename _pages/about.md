@@ -27,4 +27,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi, I'm Ashley! I'm a Stanford student studying Symbolic Systems and fascinated with the intersections of neuroscience and AI. I'm interested in cognitively-inspired computation, especially within language models. 
+Hi, I'm Ashley! I'm a Stanford student studying Symbolic Systems and fascinated with the intersections of neuroscience and AI. I'm particularly interested in cognitively-inspired computation, especially within language models, and the ethics of emerging neurotechnology. 
+
+Currently, I'm working at Stanford's Language and Cognition Lab under Steven Feng and Dr. Mike Frank researching analogical reasoning in small to midsize language models. Previously, I worked at MIT EvLab mapping language processing in brain and at Harvard/UMN Shen Neurolaw Lab studying the ethics of portable neuroimaging. 
